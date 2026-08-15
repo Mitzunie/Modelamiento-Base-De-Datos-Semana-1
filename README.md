@@ -1,1 +1,0 @@
-# Modelamiento-Base-De-Datos-Semana-1
